@@ -1,6 +1,9 @@
 __pychache__
 .DN_store
 
+*.zip
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -165,3 +168,5 @@ cython_debug/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+
